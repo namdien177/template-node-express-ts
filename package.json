@@ -1,0 +1,22 @@
+{
+  "name": "template-node-express-ts",
+  "version": "1.0.0",
+  "description": "Fast bootstrapping Node Express TypeScript",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namdien177/template-node-express-ts.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Do Hoang Nam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namdien177/template-node-express-ts/issues"
+  },
+  "homepage": "https://github.com/namdien177/template-node-express-ts#readme"
+}
